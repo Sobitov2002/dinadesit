@@ -1,1 +1,0 @@
-import{c as a}from"./utils-BymNzks1.js";import{d as r,g as o,o as n,n as c,u as l,p}from"./index-D8rbh9t_.js";const u=r({__name:"AlertDialogHeader",props:{class:{}},setup(e){const s=e;return(t,m)=>(n(),o("div",{class:c(l(a)("flex   justify-center text-center sm:text-left",s.class))},[p(t.$slots,"default")],2))}});export{u as _};
