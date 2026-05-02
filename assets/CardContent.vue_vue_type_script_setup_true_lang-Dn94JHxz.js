@@ -1,0 +1,1 @@
+import{c as o}from"./utils-Cbi5x-XD.js";import{d as n,g as r,o as t,n as c,u as p,p as l}from"./index-DsQmDSzC.js";const i=n({__name:"CardContent",props:{class:{}},setup(s){const e=s;return(a,m)=>(t(),r("div",{class:c(p(o)("p-6 pt-0",e.class))},[l(a.$slots,"default")],2))}});export{i as _};
