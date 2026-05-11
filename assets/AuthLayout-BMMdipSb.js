@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{l as o,g as s,o as n,a}from"./index-D3r3lhVO.js";const c={},r={class:"antialiased flex items-center justify-center min-h-screen login-bg"};function i(_,p,d,f,l,m){const e=o("RouterView");return n(),s("div",r,[a(e)])}const x=t(c,[["render",i],["__scopeId","data-v-adf2c5b7"]]);export{x as default};

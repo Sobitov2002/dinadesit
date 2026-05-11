@@ -1,1 +1,0 @@
-import{c as n}from"./utils-Cbi5x-XD.js";import{d as o,g as t,o as r,n as l,u as c,p}from"./index-DsQmDSzC.js";const f=o({__name:"CardTitle",props:{class:{}},setup(s){const e=s;return(a,i)=>(r(),t("h3",{class:l(c(n)("text-2xl font-semibold leading-none tracking-tight",e.class))},[p(a.$slots,"default")],2))}});export{f as _};
