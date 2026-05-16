@@ -1,1 +1,0 @@
-import{A as t}from"./index-CX9iDD_O.js";const o=t("userStore",{state:()=>({count:2,currentRole:localStorage.getItem("role")||"general",userInfo:null}),actions:{setUserInfo(e){this.userInfo=e},setCurrentRole(e){this.currentRole=e}},getters:{doubleCount(e){return e.count*2},doublePlusOne(){return this.doubleCount+1},getUserInfo(e){return e.userInfo}}});export{o as u};
